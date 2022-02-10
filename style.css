@@ -1,0 +1,13 @@
+body {
+    background-color: #feb8ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+[class="myclass"] {
+    background-color: indigo;
